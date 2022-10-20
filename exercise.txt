@@ -31,3 +31,6 @@ loop
 3] 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 300
 
 write a program to findout power of given number using given exponent
+
+write a programe to print following pattern 
+1, 6, 15, 28, 45, 66, 91, 120, 153, 190, 231 .. 10000
