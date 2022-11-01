@@ -11,7 +11,7 @@ yearly income     tax rate
 <8,00,000         20%
 
 >=8,00,000        30%  
-
+z
 3] Write a C program to calculate final electricity bill based upon below given criteria. take monthly electricity unit from user as input. 
 units           price  per unit 
 <100            1
