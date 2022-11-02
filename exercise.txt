@@ -40,3 +40,8 @@ https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
 https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
 
 write a program to findout all the perfect numbers between given range.
+
+
+array
+-----------------------------------------
+write a program to find highest runs out of given 5 runs take runs as an input from user 
