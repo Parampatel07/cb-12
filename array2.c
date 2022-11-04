@@ -28,6 +28,5 @@ void main()
     }
     printf("\n\nThe total for student is %d ",total);
     average  = total / 5;
-
     printf("\n\nThe average for student is %f ",average);
 }
