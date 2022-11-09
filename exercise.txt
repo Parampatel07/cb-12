@@ -51,3 +51,17 @@ write a program to find lowest goals out of given 5 matches take runs as an inpu
 multiarray
 ----------------------------------------
 write a programe to store 5 matches runs of 5 player's
+
+function
+-----------------------------------------
+Write a programe to print $ multiple time using Functions 
+
+Write a programe to make a calc 
+->addition 
+->subtraction
+->multiplication
+->division
+->reminder
+->min
+->max
+->equality
