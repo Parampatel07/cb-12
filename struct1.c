@@ -29,8 +29,6 @@ void main()
     scanf("%f",&t3.minutes);
     printf("Enter the value of third country name ");
     scanf("%s",&t3.name);
-   
-
     printf("\nthe value of first country hours is %d and minutes is %.2f and name is %s ",t1.hours,t1.minutes,t1.name);
     printf("\nthe value of second country hours is %d and minutes is %.2f and name is %s ",t2.hours,t2.minutes,t2.name);
     printf("\nthe value of third country hours is %d and minutes is %.2f and name is %s ",t3.hours,t3.minutes,t3.name);
